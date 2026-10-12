@@ -1,0 +1,8 @@
+
+# Large datasets kept locally
+/data/raw/CEEW - Smart meter data Bareilly 2020.csv
+/data/raw/CEEW - Smart meter data Bareilly 2021.csv
+/data/raw/CEEW - Smart meter data Mathura 2019.csv
+/data/raw/CEEW - Smart meter data Mathura 2020.csv
+/data/processed/bareilly_ml_features.csv
+/data/processed/bareilly_train.csv
